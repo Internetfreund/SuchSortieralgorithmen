@@ -6,7 +6,8 @@ public class Arraysort
 {
 
     public static void main(String[] args)
-    {
+    {   
+        //testarray
         int[] array = {2,3,1,6,8,3,42,14};
         System.out.println(Arrays.toString(array));
         Sort.bubbleSort(array);
