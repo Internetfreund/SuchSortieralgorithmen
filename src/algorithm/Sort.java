@@ -1,7 +1,7 @@
 package algorithm;
 
 
-/****
+/***
  * Musterloesung der Klasse <code>Sort</code> der ASB-Programmieraufgabe
  * <i>Bubble- und Quicksort</i>. Die Klasse stellt alle geforderten statischen
  * Methoden zur Verfuegung.
